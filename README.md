@@ -20,5 +20,5 @@
 # [PROJECT 4: TRACK TIME TOOL](https://github.com/hangyn04/my_projects_in_class/blob/main/Track%20time.py)
 * Designed a program that allows coaches to keep track of the personal records of athlete students
 * The program should have these specifications: look up athlete's PR (personal record), add new athletes, remove graduated seniors, and update stored PRs
-* This project is a great practice to help me work on csv file using Python in my computer science class
+* This project is a great practice to help me work on txt file using Python in my computer science class
 * In this project, I got data from [Track_time.txt](https://github.com/hangyn04/my_projects_in_class/blob/main/Track_time.txt)
