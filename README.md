@@ -14,4 +14,4 @@
 
 # [PROJECT 3: DOES HIGHER MEAN BMI LEAD TO A HIGHER RISK OF STROKE?]
 * This project focuses on the risk of high BMI could negatively affect our health (higher risk of stroke)
-* My team used R-studio to conduct hypothesis test, confidence interval, the linear regression plot. Here is the plot of BMI as a function of average glucose level: ![](https://github.com/hangyn04/my_projects_in_class/blob/main/Project%203_Plot.png)
+* My team used R-studio to conduct hypothesis test, confidence interval, the linear regression plot. Here is the plot of BMI as a function of average glucose level:[png](https://github.com/hangyn04/my_projects_in_class/blob/main/Project%203_Plot.png)
