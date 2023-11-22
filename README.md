@@ -12,6 +12,6 @@
 * If the letter is not in the word, the letter will be drawn blue
 * A guess is good if it has exactly 5 letters, does not have duplicate letters, the present guess was not a past guess
 
-# [PROJECT 3: DOES HIGHER MEAN BMI LEAD TO A HIGHER RISK OF STROKE?]
+# [PROJECT 3: DOES HIGHER MEAN BMI LEAD TO A HIGHER RISK OF STROKE?](https://github.com/hangyn04/my_projects_in_class/blob/main/Project%203.R)
 * This project focuses on the risk of high BMI could negatively affect our health (higher risk of stroke)
 * My team used R-studio to conduct hypothesis test, confidence interval, the linear regression plot. Here is the plot of BMI as a function of average glucose level: [plot](https://github.com/hangyn04/my_projects_in_class/blob/main/Project%203_Plot.png)
