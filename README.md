@@ -4,7 +4,7 @@
 * The project is a great starting level to apply what I was taught in class to real-world data practices. Therefore, I could fully understand the work responsibilities in the data industry in general
 * Open this the excel file and import into csv file. Write Python code to insert all the data into the students table in the database
 
-# [PROJECT 2: WORDLE CLONE GAME] 
+# [PROJECT 2: WORDLE CLONE GAME](https://github.com/hangyn04/my_projects_in_class/blob/main/Wordle%20Clone.py)
 * This project is about the wordle game I made in my computer science class
 * Download the game and play it to know the rules. Here are some rules I could figure out after playing games:
 * A player only gets 6 guesses. For each guess, if the letter is correct and in the right spot, it will be drawn green
